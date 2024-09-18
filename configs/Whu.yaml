@@ -1,0 +1,11 @@
+# arguments for dataset
+dataset: Whu
+nclass: 2
+crop_size: 256
+data_root: 'datasets/Whu'
+
+# arguments for training
+epochs: 100
+batch_size: 8
+lr: 0.001
+model: EFICNN
