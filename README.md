@@ -34,7 +34,8 @@ Training:
 \
 Testing:
 `bash test.sh`
-\
+
 ## Acknowledgement
-This repository is built upon [ChangeViT](https://github.com/zhuduowang/ChangeViT) and [A2Net](https://github.com/guanyuezhen/A2Net) 
+This repository is built upon [ChangeViT](https://github.com/zhuduowang/ChangeViT) and [A2Net](https://github.com/guanyuezhen/A2Net)
+
 We sincerely thank the authors for their well-organized and open-sourced codebases.
